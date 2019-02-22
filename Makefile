@@ -63,8 +63,8 @@ CORE_REPOSITORY?=	${FLAVOUR}
 .endif
 
 CORE_MESSAGE?=         Here be dragons
-CORE_NAME?=            opnids
-CORE_TYPE?=            release
+CORE_NAME?=            opnids-devel
+CORE_TYPE?=            development
 
 CORE_COMMENT?=		${CORE_PRODUCT} ${CORE_TYPE} package
 CORE_MAINTAINER?=	project@opnids.io
